@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l8GVJlJq54kbGYbg6dNVXJq6vCdK0/i+2fs4qosNekf7WX3Ow0lk35Qkwh/vAb4QZYZKEI99bnPRRz0d8KxF5Q==",
+  "dgSpecHash": "9FG7GnVhxbiPO1d7ZcXzbEV6/ToGxraAj9GTztl2/OqlMtuaCIN1o7uCwMQCKnF1c6AEoTzbLeBiIz5kD/kcdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snide\\Source\\Repos\\TestRepository\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\TestRepository\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
