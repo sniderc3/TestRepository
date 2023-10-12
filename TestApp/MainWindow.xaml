@@ -13,6 +13,7 @@
         </Grid.ColumnDefinitions>
         <StackPanel Grid.Column="0">
             <Button x:Name="HelloButton" Height="50" Content="Hello"/>
+            <Button x:Name="ByeButton" Content="Bye" Height="50"/>
         </StackPanel>
 
     </Grid>
